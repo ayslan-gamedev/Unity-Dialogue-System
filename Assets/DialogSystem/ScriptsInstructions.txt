@@ -1,0 +1,19 @@
+StartDialog -> script dentro de gameobjet da unity para iniciar o sistema de dialogo
+
+
+
+DialogFileStream -> gerenciamento de arquivos de dialogo (incluindo save de escolhas)
+
+
+UnityDialog -> mostra o dialogo na unity 
+
+DialogChoices -> escohas do dialogo
+
+
+.UnityDialog formatting
+
+nome do npc, falas e protaits 
+
+Nome do interlocutor/ Frases[] imagens[] (frase....... ; nome do arquivo de imagem)
+
+|Nome do interlocutor/ arquivo de imagem do inerlocutor/ Frases ; Frases(1) ; Frases(2)/ escolhas (Y/N);CASE Y arquivo de escolhas:linha das escolhas|
